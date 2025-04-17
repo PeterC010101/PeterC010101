@@ -15,7 +15,9 @@
 - 📫 How to reach me: pedro.c.s.trabalho@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I prefer to play games on my cell phone than on my PC, because I don't have a 100% PC yet.😅
-- <div class="tenor-gif-embed" data-postid="10032561068774917505" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/code-give-that-to-me-gif-10032561068774917505">Code Give GIF</a>from <a href="https://tenor.com/search/code-gifs">Code GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+
+<div class="tenor-gif-embed" data-postid="10032561068774917505" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/code-give-that-to-me-gif-10032561068774917505">Code Give GIF</a>from <a href="https://tenor.com/search/code-gifs">Code GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script
 
 
 <!--
