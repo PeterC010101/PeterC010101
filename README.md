@@ -4,8 +4,8 @@
 - 🇧🇷  I’m living on Brazil,SP 🥳
 - 📖 I’m studying at Adventist college, but I want to do ETEC 😎
 - 🔭 I’m currently working on nothing 😅
-- 🌱 I’m currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" /> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+- 🌱 I’m currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" /> width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" /> width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />width="40" height="40"/>
           
 - 🤔 I’m looking for help with Codes, Systems and Programs
 - 💬 Ask me about Games, Movies and Tecnology
