@@ -2,7 +2,7 @@
 ## My name is Pedro Cerqueira and my nickname is "Cerqueira or PC"!
 
 - 🇧🇷  I’m living on Brazil,SP 🥳
-- 📖 I’m studying at Adventist college, but I want to do ETEC 😎
+- 📖 I’m studying at Adventist College, but I want to do ETEC 😎
 - 🔭 I’m currently working on nothing 😅
 - 🌱 I’m currently learning <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
@@ -12,25 +12,9 @@
           
 - 🤔 I’m looking for help with Codes, Systems and Programs
 - 💬 Ask me about Games, Movies and Tecnology
-- 📫 How to reach me: pedro.c.s.trabalho@gmail.com
+- 📫 How to reach me: pedrocerqueirasilva196@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I prefer to play games on my cell phone than on my PC, because I don't have a 100% PC yet.😅
 
-
-<div class="tenor-gif-embed" data-postid="10032561068774917505" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/code-give-that-to-me-gif-10032561068774917505">Code Give GIF</a>from <a href="https://tenor.com/search/code-gifs">Code GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script
-
-
-<!--
-**PeterC010101/PeterC010101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![code-give](https://github.com/user-attachments/assets/eb578da5-9685-41cf-b894-093343a9a879)
+![madagascar-private](https://github.com/user-attachments/assets/16ee568d-bb39-4f72-bd6d-39ac38c8a4d4)
