@@ -18,3 +18,7 @@
 
 ![code-give](https://github.com/user-attachments/assets/eb578da5-9685-41cf-b894-093343a9a879)
 ![madagascar-private](https://github.com/user-attachments/assets/16ee568d-bb39-4f72-bd6d-39ac38c8a4d4)
+
+
+
+<img src="https://raw.githubusercontent.com/PeterC010101/PeterC010101/output/snake.svg" alt="Snake animation" />
